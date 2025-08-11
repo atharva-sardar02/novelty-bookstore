@@ -1,4 +1,4 @@
-```
+
 # Novelty Bookstore — Final Project
 
 Full-stack bookstore built with **React (Create React App, TypeScript)** on the frontend and a **Java (Gradle, JSP/Servlet)** web app on the backend. Users can browse a catalog, view book details, add to cart, and complete a checkout transaction with client- and server-side validation.
@@ -172,4 +172,3 @@ git add README.md
 git commit -m "Add README.md"
 git push
 
-```
