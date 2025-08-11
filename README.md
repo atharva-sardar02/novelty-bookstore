@@ -28,7 +28,7 @@ A full-stack bookstore management and shopping web application built with **Reac
 - Java 17+, Gradle, JSP, Servlets, DAO pattern
 
 **Database**
-- H2 / MySQL / PostgreSQL (configurable in [`server/src/main/resources`](server/src/main/resources))
+- MySQL / PostgreSQL (configurable in [`server/src/main/resources`](server/src/main/resources))
 
 **Tooling**
 - ESLint, Prettier, Jest/RTL (frontend), JUnit (backend)
@@ -60,8 +60,8 @@ A full-stack bookstore management and shopping web application built with **Reac
 └── README.md
 
 ```
-🖥 Running Locally
-1️⃣ Backend (Java JSP/Servlet)
+##🖥 Running Locally
+**1️⃣ Backend (Java JSP/Servlet)**
 bash
 Copy code
 cd server
@@ -72,22 +72,31 @@ gradlew.bat jettyRun        # Windows
 
 # OR if packaging a WAR
 ./gradlew build
-2️⃣ Frontend (React + TypeScript)
+**2️⃣ Frontend (React + TypeScript)**
 bash
 Copy code
 cd client
 npm install
 npm start
-⚙ Configuration
-Database: Update application.properties in server/src/main/resources
-Example for MySQL:
+##⚙ Configuration
+**Database:** 
+Update application.properties in server/src/main/resources
 
+Example for MySQL:
+```
 properties
 Copy code
 spring.datasource.url=jdbc:mysql://localhost:3306/bookstore
 spring.datasource.username=root
 spring.datasource.password=yourpassword
-API URL: Update API_BASE_URL in client/src/services/api.ts
+```
+##API URL: 
+Update API_BASE_URL in client/src/services/api.ts
 
 📸 Screenshots
-Add screenshots of your app here for a better README presentation.
+<img width="1759" height="929" alt="image" src="https://github.com/user-attachments/assets/788f8a6b-1277-4135-a844-e6ac0de4bbfa" />
+<img width="1744" height="843" alt="image" src="https://github.com/user-attachments/assets/f84bd33b-6857-4afe-a44d-ca11eac8fbb2" />
+<img width="1758" height="842" alt="image" src="https://github.com/user-attachments/assets/c508ce7b-f545-485c-ab73-4b62820b1214" />
+
+
+
