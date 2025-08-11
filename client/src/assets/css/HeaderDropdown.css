@@ -1,0 +1,43 @@
+
+.header-dropdown {
+    position: relative;
+}
+
+
+
+.categories-button {
+    background-color: var(--primary-color);
+    margin-top: 0.25em;
+}
+
+.header-dropdown ul {
+    background: url("D:/VT/wd/CS5244/AtharvaBookstoreReact/client/src/assets/images/site/vintage-crumpled-paper-textured-background.jpg") no-repeat;
+    background-size: cover;
+    color: black;
+    display: none;
+    border-radius: 20px;
+    position: relative;
+}
+
+.header-dropdown li {
+    padding: 0.25em 0.5em;
+    border-radius: 20px;
+    display: block;
+}
+
+.header-dropdown a {
+    color: black;
+    text-decoration: none;
+}
+
+.header-dropdown li:hover {
+    background: var(--neutral-color);
+}
+
+.header-dropdown:hover ul {
+    display: block;
+    position: absolute;
+    min-width: 8em;
+    z-index: 1;
+    cursor: pointer;
+}

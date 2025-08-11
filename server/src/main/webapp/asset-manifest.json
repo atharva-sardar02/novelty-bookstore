@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/AtharvaBookstoreReactTransact/static/css/main.d3b862b1.css",
+    "main.js": "/AtharvaBookstoreReactTransact/static/js/main.2bb538b6.js",
+    "static/js/453.258b012d.chunk.js": "/AtharvaBookstoreReactTransact/static/js/453.258b012d.chunk.js",
+    "static/media/vintage-crumpled-paper-textured-background.jpg": "/AtharvaBookstoreReactTransact/static/media/vintage-crumpled-paper-textured-background.12d9bbec01338cef6e5e.jpg",
+    "static/media/bookstore-logo.jpg": "/AtharvaBookstoreReactTransact/static/media/bookstore-logo.efd06b9f3ca6778c855f.jpg",
+    "static/media/back2.jpg": "/AtharvaBookstoreReactTransact/static/media/back2.8371c3f4c68da4990b29.jpg",
+    "static/media/the-immortal-life-of-henrietta-lacks.jpg": "/AtharvaBookstoreReactTransact/static/media/the-immortal-life-of-henrietta-lacks.49ac9f38787a516a4bf6.jpg",
+    "static/media/death-on-the-nile.jpg": "/AtharvaBookstoreReactTransact/static/media/death-on-the-nile.c7c4e2cb323a6ee9b502.jpg",
+    "static/media/b.jpg": "/AtharvaBookstoreReactTransact/static/media/b.cd189441541e4d3f4dbc.jpg",
+    "static/media/where-the-wild-things-are.jpg": "/AtharvaBookstoreReactTransact/static/media/where-the-wild-things-are.e6e71bc560793b9293ee.jpg",
+    "static/media/the-chronicles-of-narnia.jpg": "/AtharvaBookstoreReactTransact/static/media/the-chronicles-of-narnia.a180b4f0299c38747d8b.jpg",
+    "static/media/c.jpg": "/AtharvaBookstoreReactTransact/static/media/c.8c119dfae050cb30ed51.jpg",
+    "static/media/the-iliad.gif": "/AtharvaBookstoreReactTransact/static/media/the-iliad.9d719517420c8044e766.gif",
+    "static/media/snow-crash.jpg": "/AtharvaBookstoreReactTransact/static/media/snow-crash.66354e895b275687348f.jpg",
+    "static/media/foundation.jpg": "/AtharvaBookstoreReactTransact/static/media/foundation.67dc4da05db0ba88d75d.jpg",
+    "static/media/the-notebook.jpg": "/AtharvaBookstoreReactTransact/static/media/the-notebook.2656cb9cf2b20874ce3a.jpg",
+    "static/media/one-true-loves-a-novel.jpg": "/AtharvaBookstoreReactTransact/static/media/one-true-loves-a-novel.d8a61a6fe616b14df569.jpg",
+    "static/media/dune.jpg": "/AtharvaBookstoreReactTransact/static/media/dune.3cdf14c84c74294f0031.jpg",
+    "static/media/educated.jpg": "/AtharvaBookstoreReactTransact/static/media/educated.87750588359270104a8b.jpg",
+    "static/media/the-brothers-karamazov.gif": "/AtharvaBookstoreReactTransact/static/media/the-brothers-karamazov.4982f5b4619a9ef84914.gif",
+    "static/media/harry-potter-and-the-philosophers-stone.jpg": "/AtharvaBookstoreReactTransact/static/media/harry-potter-and-the-philosophers-stone.01965c3c533bb928ee98.jpg",
+    "static/media/and-then-there-were-none.jpg": "/AtharvaBookstoreReactTransact/static/media/and-then-there-were-none.635afbc81671041e1afe.jpg",
+    "static/media/atomic-habits.jpg": "/AtharvaBookstoreReactTransact/static/media/atomic-habits.893a212cd4807b0ac7bf.jpg",
+    "static/media/little-dorrit.gif": "/AtharvaBookstoreReactTransact/static/media/little-dorrit.efde18fca9bb33eb8a6e.gif",
+    "static/media/a.jpg": "/AtharvaBookstoreReactTransact/static/media/a.2051730b3fca111e9fee.jpg",
+    "static/media/the-silent-patient.jpg": "/AtharvaBookstoreReactTransact/static/media/the-silent-patient.f6e7a79237826dcc34cf.jpg",
+    "static/media/beach-read.jpg": "/AtharvaBookstoreReactTransact/static/media/beach-read.fd72a2a97f1552499e85.jpg",
+    "static/media/neuromancer.jpg": "/AtharvaBookstoreReactTransact/static/media/neuromancer.e18382d1890ec53ce377.jpg",
+    "static/media/jane-eyre.jpg": "/AtharvaBookstoreReactTransact/static/media/jane-eyre.6f4bc9ed2045083f6d51.jpg",
+    "static/media/the-cat-in-the-hat.jpg": "/AtharvaBookstoreReactTransact/static/media/the-cat-in-the-hat.9d88a3cff32fd3d12587.jpg",
+    "index.html": "/AtharvaBookstoreReactTransact/index.html",
+    "main.d3b862b1.css.map": "/AtharvaBookstoreReactTransact/static/css/main.d3b862b1.css.map",
+    "main.2bb538b6.js.map": "/AtharvaBookstoreReactTransact/static/js/main.2bb538b6.js.map",
+    "453.258b012d.chunk.js.map": "/AtharvaBookstoreReactTransact/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3b862b1.css",
+    "static/js/main.2bb538b6.js"
+  ]
+}

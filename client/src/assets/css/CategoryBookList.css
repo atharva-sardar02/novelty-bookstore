@@ -1,0 +1,13 @@
+
+.book-lists {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+    gap: 1em;
+}
+
+.category-book-list-container{
+    display: flex;
+    flex-direction: row;
+    /*margin-left: 9em;*/
+}

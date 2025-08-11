@@ -1,0 +1,78 @@
+
+.home-pages  {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+.welcome-text {
+    background: url("D:/VT/wd/CS5244/AtharvaBookstoreReact/client/src/assets/images/site/back2.jpg") no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2em;
+    width: 30em;
+    color: black;
+    padding: 2rem;
+    margin-top: 1rem;
+    align-items: center;
+}
+
+.typewriter{
+    overflow: hidden;
+    text-align: center;
+    /*white-space: nowrap; */
+    margin: 0 auto;
+    letter-spacing: 2px;
+    animation: typing 1s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+    from {
+        width: 25%;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes blink-caret {
+    from,
+    to {
+        border-color: transparent;
+    }
+    50% {
+        border-color: black;
+    }
+}
+
+
+
+.flow-content > * + * {
+    margin-top: 1rem;
+}
+
+
+/*.container {*/
+/*    padding: 2rem;*/
+/*}*/
+.best-seller{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2em;
+}
+
+.best-seller-home{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2.5em;
+}
+
+.header-flex{
+    display: flex;
+}
+

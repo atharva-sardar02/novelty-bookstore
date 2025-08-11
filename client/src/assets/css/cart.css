@@ -1,0 +1,43 @@
+.cart-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.5em;
+    gap: 2.5em;
+    align-items: center;
+}
+
+.cart-text {
+    text-align: center;
+    font-size: 1.35em;
+}
+
+.cart-box{
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+.bin-button
+{
+    display: inline-block;
+    background: #9A6A01FF;
+    color: white;
+    text-decoration: none;
+    padding: 0.25em;
+    cursor: pointer;
+    border: none;
+    border-radius: 1em;
+    vertical-align: baseline;
+}
+
+.clear-button {
+    display: inline;
+    color: #e85c5c;
+    text-decoration: underline;
+    padding-top: 0.75em;
+    cursor: pointer;
+    border: none;
+    background: none; /* Remove background */
+    font-size: inherit; /* Inherit font size from parent */
+}

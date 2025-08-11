@@ -1,0 +1,112 @@
+
+header {
+    background: var(--secondary-background-color);
+    display: flex;
+    flex-direction: row;
+    padding: 1em;
+    justify-content: center;
+    gap: 2.5em;
+}
+
+.logo{
+    border-radius: 1em;
+}
+.text-logo {
+    display: flex;
+    font-family: var(--title-font-family);
+    color: whitesmoke;
+    align-content: center;
+}
+
+.text-logo:hover {
+    opacity: 0.7;
+}
+
+.same-line-buttons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em;
+    gap: 1em;
+}
+
+.search-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-bar {
+    background: url("D:/VT/wd/CS5244/AtharvaBookstoreReactTransact/client/src/assets/images/site/vintage-crumpled-paper-textured-background.jpg") no-repeat;
+    background-size: cover;
+    /*width: 30em;*/
+    width: 500px;
+    max-width: 100%;
+    border-radius: 20px;
+    padding: 0.5em;
+    border: none;
+}
+
+.same-line {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image-button-header {
+    padding-top: 0.7em;
+    padding-bottom: 1em;
+}
+
+.search-icon-link {
+    margin-left: -30px; /* Adjust the margin as needed */
+}
+
+.search-icon {
+    width: 20px; /* Adjust the width as needed */
+    height: 20px; /* Adjust the height as needed */
+}
+
+.cart-login {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2em;
+}
+
+.button {
+    display: flex;
+}
+
+.title{
+    display: flex;
+    padding: 1em;
+}
+
+.header-link-button{
+    text-decoration: none;
+}
+
+
+@media (max-width: 600px) {
+    header {
+        flex-direction: column;
+    }
+}
+
+.image-button-header {
+    position: relative;
+}
+
+.cart-icon-container {
+    position: relative;
+}
+
+.cart-item-count {
+    position: absolute;
+    top: -25px;
+    right: 60px;
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    padding: 3px 5px;
+    font-size: 15px;
+}
